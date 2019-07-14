@@ -131,6 +131,6 @@ Visit [renjin.org](https://www.renjin.org) to learn more about Renjin, or visit 
 [docs.renjin.org](http://docs.renjin.org). Need help professionalizing your cloud or on-premise R deployments?
 Contact us at support@renjin.org or on Twitter at [@bedatadriven](https://twitter.com/bedatadriven)
 
-# License
+## License
 
 The code in this repo is MIT licensed. The rpart package is licensed under GPL 2 | 3, and Renjin is GPL 2 licensed.
