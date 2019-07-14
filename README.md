@@ -124,3 +124,13 @@ Be careful! The authentication level for this example is set to
 anonymous in [RenjinFunction](src/main/java/org/renjin/azure/RenjinFunction.java).
 
 You may need to adapt this code to meet your needs in production.
+
+## Learn more
+
+Visit [renjin.org](https://www.renjin.org) to learn more about Renjin, or visit our documentation at
+[docs.renjin.org](http://docs.renjin.org). Need help professionalizing your cloud or on-premise R deployments?
+Contact us at support@renjin.org or on Twitter at [@bedatadriven](https://twitter.com/bedatadriven)
+
+# License
+
+The code in this repo is MIT licensed. The rpart package is licensed under GPL 2 | 3, and Renjin is GPL 2 licensed.
